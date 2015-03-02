@@ -1,0 +1,5 @@
+I have learned how to merge changes and I learned about forking repositories.
+I found this especially useful because I recently started working on
+a collaborative project and am using git. Everything I have learned from this
+seminar so far is being put to real use in my life, and I find using git so much 
+easier while working with others.

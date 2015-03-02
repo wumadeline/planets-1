@@ -7,3 +7,4 @@ But the Mummy will appreciate the lack of humidity
 
 Mars is going to be a great adventure!
 
+Mars is a planet next to Earth.
